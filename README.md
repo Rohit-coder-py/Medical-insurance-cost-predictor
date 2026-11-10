@@ -18,7 +18,6 @@
 > **Use case:** Enter a person's demographics, income, lifestyle, and clinical/health history — age, BMI, smoking status, chronic conditions, hospitalizations, blood pressure, plan type — and get an instant estimate of their **annual medical cost**, the way an underwriting or actuarial team might use a first-pass model to sanity-check a quote.
 >
 > **Live demo →** <mark>https://medical-insurance-cost-predictor-pytorch.streamlit.app/</mark>
-> **Docker Hub →** [View Docker Image](https://hub.docker.com/r/rohitcoderpy/medical-insurance-cost-predictor)
 <br/>
 
 <div align="center">
