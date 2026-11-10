@@ -20,8 +20,25 @@
 > **Live demo →** <mark>https://medical-insurance-cost-predictor-pytorch.streamlit.app/</mark>
 <br>
 
-> **Docker Hub Registery** <mark>https://hub.docker.com/r/rohitcoderpy/medical-insurance-cost-predictor</mark>
+## Docker Hub
 
+The application is available as a Docker image on Docker Hub.
+
+**Pull the image:**
+
+```bash
+docker pull rohitcoderpy/medical-insurance-cost-predictor:latest
+```
+
+**Run the container:**
+
+```bash
+docker run -d -p 8501:8501 --name medical-insurance-app rohitcoderpy/medical-insurance-cost-predictor:latest
+```
+
+Access the application at `http://localhost:8501`.
+
+**Docker Hub:** [Medical Insurance Cost Predictor](https://hub.docker.com/r/rohitcoderpy/medical-insurance-cost-predictor)
 <br/>
 
 <div align="center">
